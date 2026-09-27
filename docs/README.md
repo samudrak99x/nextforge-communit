@@ -29,12 +29,10 @@
 - `judgment-eval-and-fixtures` — fixtures, coverage, gaps, improvement playbook  
 - MCP: `run_harness_eval`, `try_profile`, `analyze_judgment_improvement`
 
-**Example eval baseline:** [Demo/expense-demo/eval-gaps.md](../Demo/expense-demo/eval-gaps.md)
+**Naming (display vs slugs):** [../NAMING.md](../NAMING.md)
 
 ---
 
-## Related entry points
+## Related (application repo)
 
-- [AGENTS.md](../AGENTS.md) — workspace agents and MCP  
-- [Demo/README.md](../Demo/README.md) — demo profiles, harness eval commands  
-- `.cursor/rules/nextforge-profile-agent.mdc` — Cursor agent rule  
+Demos, `AGENTS.md`, Cursor rules, and lab fixtures live in the **NextForge application** monorepo (not in this community bundle).
